@@ -3,7 +3,7 @@
 Exercício #1 da semana #8, de nome "Aplicação em Node". Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
 
 Este exercício é focado no estudo do Back-end e da linguagem JavaScript, 
-introduzindo os conceitos de Node, verbos e status HTTP, Banco de Dados Relacional, SQL, SGBD, Query Builder e Migrations.w
+introduzindo os conceitos de Node, verbos e status HTTP, Banco de Dados Relacional, SQL, SGBD, Query Builder e Migrations.
 
 <br>
   <img width="107" height="120" alt="Node" src="https://github.com/user-attachments/assets/27b5c7d2-deb3-4228-859f-49da7529ad97" />
