@@ -21,6 +21,7 @@ introducing the concepts of Node, HTTP Verbs and Status, Relational Database, SQ
 
 - JavaScript
 - Node
+- Express
 - SQLite
 - Insomnia
 - Beekeeper
